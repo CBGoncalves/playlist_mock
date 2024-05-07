@@ -2,16 +2,12 @@
     "playlist": [
         {
             "playlistName": "Programação de Computadores do ciclo básico das Engenharias da UNIVESP",
-            "kind": "youtube#playlistItemListResponse",
-            "etag": "R9PiqyCQRD8beWHScz0OLw5aTPw",
             "items": [
                 {
                     "kind": "youtube#playlistItem",
-                    "etag": "Wmlt1Kqni4VlsXWL3VbZMBl1H3U",
                     "id": "UExfSkFhVThrNkRRV19YNnlIdFRUdXc5RjZwRl8wbnZmeS41NkI0NEY2RDEwNTU3Q0M2",
                     "snippet": {
                         "publishedAt": "2023-02-13T14:13:04Z",
-                        "channelId": "UCiw04DZ-Ji9KunaPFfVWt9g",
                         "title": "Programação de Computadores - Aula 01 - Apresentação da Disciplina",
                         "description": "Disciplina: Programação de Computadores - ILP 001\nAula 01 - Apresentação da Disciplina\nCurso de Engenharia - Univesp - Universidade Virtual do Estado de São Paulo\nProfessor responsável: Luciano Digiampietri\nProfessor ministrante: Norton Trevisan Roman",
                         "thumbnails": {
@@ -54,11 +50,9 @@
                 },
                 {
                     "kind": "youtube#playlistItem",
-                    "etag": "prcXdgNAwySabi58yqYu7_IUwCE",
                     "id": "UExfSkFhVThrNkRRV19YNnlIdFRUdXc5RjZwRl8wbnZmeS4yODlGNEE0NkRGMEEzMEQy",
                     "snippet": {
                         "publishedAt": "2023-02-13T14:13:23Z",
-                        "channelId": "UCiw04DZ-Ji9KunaPFfVWt9g",
                         "title": "Programação de Computadores - Aula 02 - Problemas e Algoritmos",
                         "description": "Disciplina: Programação de Computadores - ILP 001\nAula 02 - Problemas e Algoritmos\nCurso de Engenharia - Univesp - Universidade Virtual do Estado de São Paulo\nProfessor responsável: Luciano Digiampietri\nProfessor ministrante: Norton Trevisan Roman",
                         "thumbnails": {
